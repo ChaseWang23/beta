@@ -1,0 +1,9 @@
+[14-Sep-2017 20:41:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ottoco/public_html/tb/otto/utils.php on line 24
+[14-Sep-2017 22:03:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ottoco/public_html/tb/otto/utils.php on line 24
+[14-Sep-2017 22:03:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ottoco/public_html/tb/otto/utils.php on line 24
+[14-Sep-2017 22:04:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ottoco/public_html/tb/otto/utils.php on line 24
+[16-Sep-2017 20:06:11 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ottoco/public_html/tb/otto/utils.php:1) in /home/ottoco/public_html/tb/otto/utils.php on line 27
+[16-Sep-2017 20:06:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ottoco/public_html/tb/otto/utils.php:1) in /home/ottoco/public_html/tb/otto/utils.php on line 27
+[16-Sep-2017 20:06:53 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ottoco/public_html/tb/otto/utils.php:1) in /home/ottoco/public_html/tb/otto/utils.php on line 27
+[16-Sep-2017 20:06:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ottoco/public_html/tb/otto/utils.php:1) in /home/ottoco/public_html/tb/otto/utils.php on line 27
+[17-Sep-2017 00:18:52 UTC] PHP Warning:  Division by zero in /home/ottoco/public_html/tb/otto/get_price.php on line 55

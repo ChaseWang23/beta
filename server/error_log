@@ -1,0 +1,4 @@
+[16-Sep-2017 17:07:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ottoco/public_html/tb/otto/server/login_form.php on line 14
+[16-Sep-2017 17:07:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ottoco/public_html/tb/otto/server/login_form.php on line 18
+[16-Sep-2017 20:09:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ottoco/public_html/tb/otto/server/login_form.php on line 14
+[16-Sep-2017 20:09:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ottoco/public_html/tb/otto/server/login_form.php on line 18
